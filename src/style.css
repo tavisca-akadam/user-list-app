@@ -1,0 +1,26 @@
+div .left-container {
+    width: 25%;
+    border: 1px solid #000;
+    height: 100%;
+    padding: 10px;
+    float: left;
+}
+
+div .list-content {
+    color: blue;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+
+div .right-container {
+    border: 1px solid #000;
+    height: 100%;
+    width: 100%;
+
+}
+.right-container .user-detail-content {
+    
+    padding: 10% 12% 57% 38%;
+    text-align: center;
+}
+
